@@ -58,6 +58,7 @@ module.exports = {
                 options: {
                     emitWarning: true,
                     emitError: false,
+                    fix: true,
                     //failOnWarning: false,
                     //failOnError: true,
                     useEslintrc: false,
