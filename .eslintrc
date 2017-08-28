@@ -80,7 +80,7 @@
     "react/no-unknown-property": 1,
     "react/prop-types": 0,
     "react/react-in-jsx-scope": 1,
-    "react/self-closing-comp": 1,
+    "react/self-closing-comp": 0,
     "react/sort-comp": 1,
     "react/jsx-indent": [2, 4],
     "react/jsx-indent-props": [2, 4],
